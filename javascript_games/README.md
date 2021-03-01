@@ -1,0 +1,2 @@
+readline-sync
+clipboardy
