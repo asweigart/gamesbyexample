@@ -1,12 +1,12 @@
 """Hacking Minigame, by Al Sweigart al@inventwithpython.com
 The hacking mini-game from "Fallout 3". Find out which seven-letter
 word is the password by using clues each guess gives you.
-This and other games are available at https://nostarch.com/XX
+This code is available at https://nostarch.com/big-book-small-python-programming
 Tags: large, artistic, game, puzzle"""
-__version__ = 0
+
 # NOTE: This program requires the sevenletterwords.txt file. You can
 # download it from https://inventwithpython.com/sevenletterwords.txt
-
+__version__ = 0
 import random, sys
 
 # Set up the constants:
