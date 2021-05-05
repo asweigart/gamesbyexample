@@ -5,7 +5,6 @@ The classic cellular automata simulation. Press Ctrl-C to stop.
 More info at: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 This program MUST be run in a Terminal/Command Prompt window.
 Do not resize the terminal window while this program is running.
-This and other games are available at https://nostarch.com/XX
 Tags: large, artistic, simulation, bext, terminal"""
 __version__ = 0  # TODO - There's a weird bug on the Windows that adds unwanted scrolling.
 import random, sys, time

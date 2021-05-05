@@ -1,7 +1,6 @@
 """Ghost Leg Lottery, by Al Sweigart al@inventwithpython.com
 Follow the trail to see who wins!
 More info at: https://en.wikipedia.org/wiki/Ghost_Leg
-This and other games are available at https://nostarch.com/XX
 Tags: large, artistic"""
 __version__ = 0
 import random, time, sys

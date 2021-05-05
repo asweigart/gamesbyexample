@@ -3,7 +3,6 @@ Fizz Buzz is a game where you count up from 1, substituting "fizz" for
 multiples of 3, "buzz" for multiples of 5, and "fizzbuzz" for multiples
 of 3 and 5.
 More info at: https://en.wikipedia.org/wiki/Fizz_buzz
-This and other games are available at https://nostarch.com/XX
 Tags: tiny, beginner, math"""
 __version__ = 0
 import time

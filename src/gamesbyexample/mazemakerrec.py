@@ -2,7 +2,6 @@
 Make mazes with the recursive backtracker algorithm.
 
 An animated demo: https://scratch.mit.edu/projects/17358777/
-This and other games are available at https://nostarch.com/XX
 Tags: large, maze"""
 __version__ = 0
 import random

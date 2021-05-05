@@ -1,6 +1,5 @@
 """Tic-Tac-Toe (OOP), by Al Sweigart al@inventwithpython.com
 The classic board game. (Object-oriented programming version.)
-This and other games are available at https://nostarch.com/XX
 Tags: large, board game, game, object-oriented, two-player"""
 __version__ = 0
 import copy

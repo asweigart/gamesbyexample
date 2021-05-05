@@ -2,7 +2,6 @@
 Instead of a board with 9 spaces, this game has 9 boards with 81 spaces,
 the winner of each board placing their X or O on the big board!
 More info at: https://en.wikipedia.org/wiki/Ultimate_tic-tac-toe
-This and other games are available at https://nostarch.com/XX
 Tags: large, board game, game, two-player"""
 __version__ = 0
 import sys

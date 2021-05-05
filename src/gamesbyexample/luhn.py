@@ -2,7 +2,6 @@
 The mathematics behind credit card numbers.
 More info at: https://en.wikipedia.org/wiki/Luhn_algorithm
 More info at: https://youtu.be/Erp8IAUouus
-This and other games are available at https://nostarch.com/XX
 Tags: short, math, algorithm"""
 __version__ = 0
 import time, sys

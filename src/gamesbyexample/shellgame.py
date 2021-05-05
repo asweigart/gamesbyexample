@@ -1,6 +1,5 @@
 """Shell Game, by Al Sweigart al@inventwithpython.com
 A random gambling game to find the diamond under one of three shells.
-This and other games are available at https://nostarch.com/XX
 Tags: tiny, beginner, game"""
 __version__ = 0
 import random, time, sys

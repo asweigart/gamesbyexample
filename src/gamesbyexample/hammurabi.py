@@ -1,7 +1,6 @@
 """Hammurabi, by Al Sweigart al@inventwithpython.com
 The classic game Hamurabi.bas [sic] by Doug Dyment and others,
 popularized by David Ahl.
-This and other games are available at https://nostarch.com/XX
 Tags: large, game, simulation"""
 __version__ = 0
 import random, sys

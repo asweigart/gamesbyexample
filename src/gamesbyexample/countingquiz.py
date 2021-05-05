@@ -1,8 +1,6 @@
 """Counting Quiz, by Al Sweigart al@inventwithpython.com
 Use multiplication and subtraction to count the number of stars shown
 as fast as possible.
-
-This and other games are available at https://nostarch.com/XX
 Tags: short, math"""
 
 import math, random, time

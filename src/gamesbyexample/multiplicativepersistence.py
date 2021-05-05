@@ -1,7 +1,6 @@
 """Multiplicative Persistence, by Al Sweigart al@inventwithpython.com
 A fun math challenge.
 For more information about this topic, see https://youtu.be/Wim9WJeDTHQ
-This and other games are available at https://nostarch.com/XX
 Tags: tiny, math"""
 __version__ = 0
 import time, sys

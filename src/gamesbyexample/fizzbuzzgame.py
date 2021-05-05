@@ -1,6 +1,5 @@
 """FizzBuzz Game, by Al Sweigart al@inventwithpython.com
 A number game where you also race against the clock.
-This and other games are available at https://nostarch.com/XX
 Tags: tiny, beginner, game, math"""
 __version__ = 0
 import sys, time

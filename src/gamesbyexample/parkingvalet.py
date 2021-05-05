@@ -4,7 +4,6 @@ Inspired by Nob Yoshihagara's Rush Hour.
 parkingvaletpuzzle.txt generated from puzzles by Michael Fogleman.
 Download it from https://inventwithpython.com/parkingvaletpuzzles.txt
 More info at https://www.michaelfogleman.com/rush/
-This and other games are available at https://nostarch.com/XX
 Tags: large, board game, game, puzzle"""
 __version__ = 0
 import math, random, sys

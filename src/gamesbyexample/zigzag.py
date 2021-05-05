@@ -1,6 +1,5 @@
 """Zigzag, by Al Sweigart al@inventwithpython.com
 A simple zig zag animation. Press Ctrl-C to stop.
-This and other games are available at https://nostarch.com/XX
 Tags: tiny, beginner, artistic, scrolling"""
 __version__ = 0
 import sys, time

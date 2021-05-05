@@ -1,6 +1,5 @@
 """Coin Flip Simulator, by Al Sweigart al@inventwithpython.com
 Simulate a large number of coin flips.
-This and other games are available at https://nostarch.com/XX
 Tags: tiny, beginner, math, simulation"""
 __version__ = 0
 import random

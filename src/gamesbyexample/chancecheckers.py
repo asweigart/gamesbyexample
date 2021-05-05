@@ -3,7 +3,6 @@ Checkers, but you can move 3 random checkers per turn.
 These checkers are randomly decided, and can be the player's own
 checkers or their opponents', but you can't move your opponents'
 promoted checkers. In this version, capturing is not mandatory.
-This and other games are available at https://nostarch.com/XX
 Tags: extra-large, board game, game, two-player"""
 __version__ = 0
 import random, copy, sys

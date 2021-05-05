@@ -1,4 +1,5 @@
-"""Turtle Demo Wrapper
+"""Turtle Demo Wrapper, by Al Sweigart al@inventwithpython.com
+
 This runs the turtledemo module that comes with Python, which contains
 many example programs that use the Python's turtle module.
 Tags: tiny, artistic"""

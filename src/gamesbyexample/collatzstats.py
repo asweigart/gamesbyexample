@@ -1,7 +1,6 @@
 """Collatz Sequence Stats, by Al Sweigart al@inventwithpython.com
 Finds out how long various Collatz Sequences are.
 More info at: https://en.wikipedia.org/wiki/Collatz_conjecture
-This and other games are available at https://nostarch.com/XX
 Tags: short, math"""
 __version__ = 0
 print('''Collatz Sequence Stats, by Al Sweigart al@inventwithpython.com

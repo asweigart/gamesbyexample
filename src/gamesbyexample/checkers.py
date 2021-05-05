@@ -1,7 +1,6 @@
 """Checkers, by Al Sweigart al@inventwithpython.com
 The classic checkers board game. In this version, capturing is mandatory
 and if you are blocked from moving, you lose.
-This and other games are available at https://nostarch.com/XX
 Tags: extra-large, board game, game, two-player"""
 __version__ = 0
 import copy, sys

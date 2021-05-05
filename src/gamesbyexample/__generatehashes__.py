@@ -31,9 +31,10 @@ SUPPORT_FILES = {'mazerunner2d.py': ['maze11x11s1.txt', 'maze51x17s42.txt'],
                  'pygame_games/wormy.py': ['pygame_games/freesansbold.ttf'],
                  }
 
-IGNORE_FILES = ['tutorialguess1.py', 'tutorialguess2.py',
+IGNORE_FILES = ['bricks.py', 'tutorialguess1.py', 'tutorialguess2.py',
                 'tutorialguess3.py', 'tutorialguess4.py', 'tutorialguess5.py',
-                'tutorialguess6.py', 'tutorialguess7.py', 'zombiebitefight.py']
+                'tutorialguess6.py', 'tutorialguess7.py', 'zombiebitefight.py',
+                'test1.py']
 
 origFilesZip = zipfile.ZipFile('_originalFiles.zip', 'w', compression=zipfile.ZIP_DEFLATED, compresslevel=9)
 

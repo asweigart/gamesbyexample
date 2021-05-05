@@ -1,7 +1,6 @@
 """Rail Fence Cipher, by Al Sweigart al@inventwithpython.com
 The "rail fence" cipher for encrypting text.
 More info at: https://en.wikipedia.org/wiki/Rail_fence_cipher
-This and other games are available at https://nostarch.com/XX
 Tags: large, cryptography"""
 __version__ = 0
 try:
