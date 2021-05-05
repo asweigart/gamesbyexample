@@ -2,8 +2,8 @@
 Shows equivalent numbers in decimal, hexadecimal, and binary.
 This code is available at https://nostarch.com/big-book-small-python-programming
 Tags: tiny, math"""
-__version__ = 0
 
+__version__ = 0
 print('''Numeral System Counters, by Al Sweigart al@inventwithpython.com
 
 This program shows you equivalent numbers in decimal (base 10),
