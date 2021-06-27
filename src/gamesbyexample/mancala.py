@@ -32,7 +32,7 @@ def main():
 The ancient two-player, seed-sowing game. Grab the seeds from a pit on
 your side and place one in each following pit, going counterclockwise
 and skipping your opponent's store. If your last seed lands in an empty
-pit of yours, move the opposite pit's seeds into that pit. The
+pit of yours, move the opposite pit's seeds into your store. The
 goal is to get the most seeds in your store on the side of the board.
 If the last placed seed is in your store, you get a free turn.
 
