@@ -46,8 +46,8 @@ allFiles = ['alphabetizequiz.py', 'bagels.py', 'birthdayparadox.py', 'bitmapmess
 'countdown.py', 'countingquiz.py', 'deepcave.py', 'diamonds.py', 'dicemath.py', 'diceroller.py', 'digitalclock.py',
 'digitalrain.py', 'dna.py', 'ducklings.py', 'etchingdrawer.py', 'factorfinder.py', 'fastdraw.py', 'fibonacci.py',
 'fireflies.py', 'fishtank.py', 'fizzbuzz.py', 'fizzbuzzgame.py', 'floodplane.py', 'floorpainters.py',
-'forestfiresim.py', 'fourinarow.py', 'gomoku.py', 'guess.py', 'hacking.py', 'hangman.py', 'hexgrid.py',
-'hourglass.py', 'hungryrobots.py', 'idiot.py', 'jaccuse.py', 'langtonsant.py', 'lawnmower.py', 'leetspeak.py',
+'forestfiresim.py', 'fourinarow.py', 'gomoku.py', 'guess.py', 'gullible.py', 'hacking.py', 'hangman.py', 'hexgrid.py',
+'hourglass.py', 'hungryrobots.py', 'jaccuse.py', 'langtonsant.py', 'lawnmower.py', 'leetspeak.py',
 'lostkitty.py', 'luckystars.py', 'magicfortuneball.py', 'magichexagon.py', 'mancala.py', 'mazemakerrec.py',
 'mazerunner2d.py', 'mazerunner3d.py', 'middleletterscrambler.py', 'milliondicestats.py', 'mondrian.py', 'montyhall.py',
 'morsecode.py', 'multiplicationtable.py', 'ninetyninebottles.py', 'ninetyninebottles2.py', 'numeralsystems.py',
@@ -119,6 +119,7 @@ with open('__programdata__.py', 'w', encoding='utf-8') as programDataFile:
 print('Generating __pyflakescheck__.bat')
 with open('__pyflakescheck__.bat', 'w') as pyflakeBatFile:
     for filename in pyflakesChecklist:
+        pyflakeBatFile.write('@echo Checking ' + filename + '...\n')
         pyflakeBatFile.write('@pyflakes ' + filename + '\n')
 
 print('Done.')
